@@ -5,7 +5,6 @@
 version: 2.0
 orbs:
   codecov: codecov/codecov@1.0.2
-  token: df9af0cf-8fa6-48ca-8aa3-762d1d46950e
 jobs:
   build:
     docker:
